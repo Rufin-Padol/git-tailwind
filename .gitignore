@@ -1,0 +1,5 @@
+*.json
+tailwind.config.js
+.vscode
+node_modules
+
